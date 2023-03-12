@@ -1,2 +1,2 @@
 ket thuc
-nhanh C
+chinh sua nhanh C
