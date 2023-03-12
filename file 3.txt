@@ -1,2 +1,6 @@
 tam biet
+
 nhanh main
+
+nhanh C
+
