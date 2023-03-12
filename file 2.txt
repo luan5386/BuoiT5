@@ -1,2 +1,1 @@
-ket thuc
-chinh sua nhanh C
+mer 2
